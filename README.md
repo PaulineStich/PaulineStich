@@ -11,9 +11,7 @@ You can have a look at my [codepen](https://codepen.io/popoo/pens/showcase) or m
 
 ____
 
-👩‍💻 I’m currently working on Trace at [Stratumn](https://github.com/stratumn) as a Front-End developer.       
+👩‍🌴 Currently on vacation 
+🦜 I'm an animal lover 
 🎶 I’m learning Framer motion, 3D animation, React Three Fiber and also a Ukulele.     
 📫 How to reach me: Linkedin or [Twitter](https://twitter.com/PaulineStich).          
-🐈 Fun fact: My cat loves me so much he wants to sleep on my head.     
-
- 
