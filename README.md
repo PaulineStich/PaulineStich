@@ -10,8 +10,8 @@ Latest Project: Djeli - june 2020 - Unity
 You can have a look at my [codepen](https://codepen.io/popoo/pens/showcase) or my [website](http://www.popo.works)
 
 ____
-
-👩‍🌴 Currently freelancing 
-🦜 I'm an animal lover   
+ 
+👩‍🌴 Currently freelancing      
+🦜 I'm an animal lover      
 🎶 I’m learning Framer motion, 3D animation, React Three Fiber and also a Ukulele.       
 📫 How to reach me: Linkedin or [Twitter](https://twitter.com/PaulineStich).            
