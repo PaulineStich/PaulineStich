@@ -12,5 +12,5 @@ You can have a look at my [codepen](https://codepen.io/popoo/pens/showcase) or m
 ____
       
 🦜 I'm an animal lover      
-🎶 I’m learning 3D animation, Substance, Houdini and also a Ukulele.       
+🎶 I’m learning Blender, Substance and also a Ukulele.       
 📫 How to reach me: Linkedin or [Twitter](https://twitter.com/PaulineStich).            
