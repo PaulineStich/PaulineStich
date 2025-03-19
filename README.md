@@ -1,9 +1,9 @@
 ### Hi, I'm Pauline 👋
 
-Front End 
-UI Design
-3D Design
-Creative Developer
+- Front End   
+- UI Design   
+- 3D Design   
+- Creative Developer    
 
 ____
       
